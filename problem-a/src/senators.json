@@ -1,0 +1,702 @@
+[
+  {
+    "name": "Lisa Murkowski",
+    "state": "AK",
+    "party": "Republican",
+    "phone": "202-224-6665",
+    "twitter": "@LisaMurkowski"
+  },
+  {
+    "name": "Dan Sullivan",
+    "state": "AK",
+    "party": "Republican",
+    "phone": "202-224-3004",
+    "twitter": "@SenDanSullivan"
+  },
+  {
+    "name": "Richard Shelby",
+    "state": "AL",
+    "party": "Republican",
+    "phone": "202-224-5744",
+    "twitter": "@SenShelby"
+  },
+  {
+    "name": "Luther Strange",
+    "state": "AL",
+    "party": "Republican",
+    "phone": "202-224-4124",
+    "twitter": "@SenatorStrange"
+  },
+  {
+    "name": "John Boozman",
+    "state": "AR",
+    "party": "Republican",
+    "phone": "202-224-4843",
+    "twitter": "@JohnBoozman"
+  },
+  {
+    "name": "Tom Cotton",
+    "state": "AR",
+    "party": "Republican",
+    "phone": "202-224-2353",
+    "twitter": "@SenTomCotton"
+  },
+  {
+    "name": "Jeff Flake",
+    "state": "AZ",
+    "party": "Republican",
+    "phone": "202-224-4521",
+    "twitter": "@JeffFlake"
+  },
+  {
+    "name": "John McCain",
+    "state": "AZ",
+    "party": "Republican",
+    "phone": "202-224-2235",
+    "twitter": "@SenJohnMcCain"
+  },
+  {
+    "name": "Dianne Feinstein",
+    "state": "CA",
+    "party": "Democrat",
+    "phone": "202-224-3841",
+    "twitter": "@SenFeinstein"
+  },
+  {
+    "name": "Kamala Harris",
+    "state": "CA",
+    "party": "Democrat",
+    "phone": "202-224-3553",
+    "twitter": "@SenKamalaHarris"
+  },
+  {
+    "name": "Michael Bennet",
+    "state": "CO",
+    "party": "Democrat",
+    "phone": "202-224-5852",
+    "twitter": "@SenBennetCo"
+  },
+  {
+    "name": "Cory Gardner",
+    "state": "CO",
+    "party": "Republican",
+    "phone": "202-224-5941",
+    "twitter": "@SenCoryGardner"
+  },
+  {
+    "name": "Richard Blumenthal",
+    "state": "CT",
+    "party": "Democrat",
+    "phone": "202-224-2823",
+    "twitter": "@SenBlumenthal"
+  },
+  {
+    "name": "Christopher Murphy",
+    "state": "CT",
+    "party": "Democrat",
+    "phone": "202-224-4041",
+    "twitter": "@senmurphyoffice"
+  },
+  {
+    "name": "Tom Carper",
+    "state": "DE",
+    "party": "Democrat",
+    "phone": "202-224-2441",
+    "twitter": "@SenatorCarper"
+  },
+  {
+    "name": "Chris Coons",
+    "state": "DE",
+    "party": "Democrat",
+    "phone": "202-224-5042",
+    "twitter": "@SenCoonsOffice"
+  },
+  {
+    "name": "Bill Nelson",
+    "state": "FL",
+    "party": "Democrat",
+    "phone": "202-224-5274",
+    "twitter": "@SenBillNelson"
+  },
+  {
+    "name": "Marco Rubio",
+    "state": "FL",
+    "party": "Republican",
+    "phone": "202-224-3041",
+    "twitter": "@SenRubioPress"
+  },
+  {
+    "name": "Johnny Isakson",
+    "state": "GA",
+    "party": "Republican",
+    "phone": "202-224-3643",
+    "twitter": "@SenatorIsakson"
+  },
+  {
+    "name": "David Perdue",
+    "state": "GA",
+    "party": "Republican",
+    "phone": "202-224-3521",
+    "twitter": "@sendavidperdue"
+  },
+  {
+    "name": "Mazie K. Hirono",
+    "state": "HI",
+    "party": "Democrat",
+    "phone": "202-224-6361",
+    "twitter": "@MazieHirono"
+  },
+  {
+    "name": "Brian Schatz",
+    "state": "HI",
+    "party": "Democrat",
+    "phone": "202-224-3934",
+    "twitter": "@SenBrianSchatz"
+  },
+  {
+    "name": "Chuck Grassley",
+    "state": "IA",
+    "party": "Republican",
+    "phone": "202-224-3744",
+    "twitter": "@ChuckGrassley"
+  },
+  {
+    "name": "Joni Ernst",
+    "state": "IA",
+    "party": "Republican",
+    "phone": "202-224-3254",
+    "twitter": "@SenJoniErnst"
+  },
+  {
+    "name": "Jim Risch",
+    "state": "ID",
+    "party": "Republican",
+    "phone": "202-224-2752",
+    "twitter": "@SenatorRisch"
+  },
+  {
+    "name": "Mike Crapo",
+    "state": "ID",
+    "party": "Republican",
+    "phone": "202-224-6142",
+    "twitter": "@MikeCrapo"
+  },
+  {
+    "name": "Dick Durbin",
+    "state": "IL",
+    "party": "Democrat",
+    "phone": "202-224-2152",
+    "twitter": "@SenatorDurbin"
+  },
+  {
+    "name": "Tammy Duckworth",
+    "state": "IL",
+    "party": "Democrat",
+    "phone": "202-224-2854",
+    "twitter": "@SenDuckworth"
+  },
+  {
+    "name": "Joe Donnelly",
+    "state": "IN",
+    "party": "Democrat",
+    "phone": "202-224-4814",
+    "twitter": "@SenDonnelly"
+  },
+  {
+    "name": "Todd Young",
+    "state": "IN",
+    "party": "Republican",
+    "phone": "202-224-5623",
+    "twitter": "@SenToddYoung"
+  },
+  {
+    "name": "Pat Roberts",
+    "state": "KS",
+    "party": "Republican",
+    "phone": "202-224-4774",
+    "twitter": "@SenPatRoberts"
+  },
+  {
+    "name": "Jerry Moran",
+    "state": "KS",
+    "party": "Republican",
+    "phone": "202-224-6521",
+    "twitter": "@JerryMoran"
+  },
+  {
+    "name": "Mitch McConnell",
+    "state": "KY",
+    "party": "Republican",
+    "phone": "202-224-2541",
+    "twitter": "@McConnellPress"
+  },
+  {
+    "name": "Rand Paul",
+    "state": "KY",
+    "party": "Republican",
+    "phone": "202-224-4343",
+    "twitter": ""
+  },
+  {
+    "name": "Bill Cassidy",
+    "state": "LA",
+    "party": "Republican",
+    "phone": "202-224-5824",
+    "twitter": ""
+  },
+  {
+    "name": "John Neely Kennedy",
+    "state": "LA",
+    "party": "Republican",
+    "phone": "202-224-4623",
+    "twitter": "@SenJohnKennedy"
+  },
+  {
+    "name": "Ed Markey",
+    "state": "MA",
+    "party": "Democrat",
+    "phone": "202-224-2742",
+    "twitter": "@SenMarkey"
+  },
+  {
+    "name": "Elizabeth Warren",
+    "state": "MA",
+    "party": "Democrat",
+    "phone": "202-224-4543",
+    "twitter": "@SenWarren"
+  },
+  {
+    "name": "Ben Cardin",
+    "state": "MD",
+    "party": "Democrat",
+    "phone": "202-224-4524",
+    "twitter": "@SenatorCardin"
+  },
+  {
+    "name": "Chis Van Hollen",
+    "state": "MD",
+    "party": "Democrat",
+    "phone": "202-224-4654",
+    "twitter": "@ChrisVanHollen"
+  },
+  {
+    "name": "Susan Collins",
+    "state": "ME",
+    "party": "Republican",
+    "phone": "202-224-2523",
+    "twitter": "@SenatorCollins"
+  },
+  {
+    "name": "Angus King",
+    "state": "ME",
+    "party": "Independent",
+    "phone": "202-224-5344",
+    "twitter": "@SenAngusKing"
+  },
+  {
+    "name": "Debbie Stabenow",
+    "state": "MI",
+    "party": "Democrat",
+    "phone": "202-224-4822",
+    "twitter": "@SenStabenow"
+  },
+  {
+    "name": "Gary Peters",
+    "state": "MI",
+    "party": "Democrat",
+    "phone": "202-224-6221",
+    "twitter": "@SenGaryPeters"
+  },
+  {
+    "name": "Amy Klobuchar",
+    "state": "MN",
+    "party": "Democrat",
+    "phone": "202-224-3244",
+    "twitter": ""
+  },
+  {
+    "name": "Al Franken",
+    "state": "MN",
+    "party": "Democrat",
+    "phone": "202-224-5641",
+    "twitter": "@SenFranken"
+  },
+  {
+    "name": "Claire McCaskill",
+    "state": "MO",
+    "party": "Democrat",
+    "phone": "202-224-6154",
+    "twitter": "@McCaskillOffice"
+  },
+  {
+    "name": "Roy Blunt",
+    "state": "MO",
+    "party": "Republican",
+    "phone": "202-224-5721",
+    "twitter": "@RoyBlunt"
+  },
+  {
+    "name": "Roger Wicker",
+    "state": "MS",
+    "party": "Republican",
+    "phone": "202-224-6253",
+    "twitter": "@SenatorWicker"
+  },
+  {
+    "name": "Thad Cochran",
+    "state": "MS",
+    "party": "Republican",
+    "phone": "202-224-5054",
+    "twitter": "@SenThadCochran"
+  },
+  {
+    "name": "Jon Tester",
+    "state": "MT",
+    "party": "Democrat",
+    "phone": "202-224-2644",
+    "twitter": "@SenatorTester"
+  },
+  {
+    "name": "Steve Daines",
+    "state": "MT",
+    "party": "Republican",
+    "phone": "202-224-2651",
+    "twitter": "@SteveDaines"
+  },
+  {
+    "name": "Richard Burr",
+    "state": "NC",
+    "party": "Republican",
+    "phone": "202-224-3154",
+    "twitter": "@SenatorBurr"
+  },
+  {
+    "name": "Thom Tillis",
+    "state": "NC",
+    "party": "Republican",
+    "phone": "202-224-6342",
+    "twitter": "@senthomtillis"
+  },
+  {
+    "name": "John Hoeven",
+    "state": "ND",
+    "party": "Republican",
+    "phone": "202-224-2551",
+    "twitter": "@SenJohnHoeven"
+  },
+  {
+    "name": "Heidi Heitkamp",
+    "state": "ND",
+    "party": "Democrat",
+    "phone": "202-224-2043",
+    "twitter": "@SenatorHeitkamp"
+  },
+  {
+    "name": "Deb Fischer",
+    "state": "NE",
+    "party": "Republican",
+    "phone": "202-224-6551",
+    "twitter": "@SenatorFischer"
+  },
+  {
+    "name": "Benjamin Sasse",
+    "state": "NE",
+    "party": "Republican",
+    "phone": "202-224-4224",
+    "twitter": "@SenSasse"
+  },
+  {
+    "name": "Jeanne Shaheen",
+    "state": "NH",
+    "party": "Democrat",
+    "phone": "202-224-2841",
+    "twitter": "@SenatorShaheen"
+  },
+  {
+    "name": "Maggie Hassan",
+    "state": "NH",
+    "party": "Democrat",
+    "phone": "202-224-3324",
+    "twitter": "@Senatorhassan"
+  },
+  {
+    "name": "Bob Menendez",
+    "state": "NJ",
+    "party": "Democrat",
+    "phone": "202-224-4744",
+    "twitter": "@SenatorMenendez"
+  },
+  {
+    "name": "Cory Booker",
+    "state": "NJ",
+    "party": "Democrat",
+    "phone": "202-224-3224",
+    "twitter": "@senbookeroffice"
+  },
+  {
+    "name": "Tom Udall",
+    "state": "NM",
+    "party": "Democrat",
+    "phone": "202-224-6621",
+    "twitter": "@SenatorTomUdall"
+  },
+  {
+    "name": "Martin Heinrich",
+    "state": "NM",
+    "party": "Democrat",
+    "phone": "202-224-5521",
+    "twitter": "@MartinHeinrich"
+  },
+  {
+    "name": "Dean Heller",
+    "state": "NV",
+    "party": "Republican",
+    "phone": "202-224-6244",
+    "twitter": "@SenDeanHeller"
+  },
+  {
+    "name": "Catherine Cortez Masto",
+    "state": "NV",
+    "party": "Democrat",
+    "phone": "202-224-3542",
+    "twitter": "@sencortezmasto"
+  },
+  {
+    "name": "Kirsten Gillibrand",
+    "state": "NY",
+    "party": "Democrat",
+    "phone": "202-224-4451",
+    "twitter": "@SenGillibrand"
+  },
+  {
+    "name": "Chuck Schumer",
+    "state": "NY",
+    "party": "Democrat",
+    "phone": "202-224-6542",
+    "twitter": "@SenSchumer"
+  },
+  {
+    "name": "Sherrod Brown",
+    "state": "OH",
+    "party": "Democrat",
+    "phone": "202-224-2315",
+    "twitter": "@SenSherrodBrown"
+  },
+  {
+    "name": "Rob Portman",
+    "state": "OH",
+    "party": "Republican",
+    "phone": "202-224-3353",
+    "twitter": "@SenRobPortman"
+  },
+  {
+    "name": "Jim Inhofe",
+    "state": "OK",
+    "party": "Republican",
+    "phone": "202-224-4721",
+    "twitter": "@InhofePress"
+  },
+  {
+    "name": "James Lankford",
+    "state": "OK",
+    "party": "Republican",
+    "phone": "202-224-5754",
+    "twitter": "@SenatorLankford"
+  },
+  {
+    "name": "Jeff Merkley",
+    "state": "OR",
+    "party": "Democrat",
+    "phone": "202-224-3753",
+    "twitter": "@SenJeffMerkley"
+  },
+  {
+    "name": "Ron Wyden",
+    "state": "OR",
+    "party": "Democrat",
+    "phone": "202-224-5244",
+    "twitter": "@RonWyden"
+  },
+  {
+    "name": "Bob Casey, Jr.",
+    "state": "PA",
+    "party": "Democrat",
+    "phone": "202-224-6324",
+    "twitter": "@SenBobCasey"
+  },
+  {
+    "name": "Pat Toomey",
+    "state": "PA",
+    "party": "Republican",
+    "phone": "202-224-4254",
+    "twitter": "@SenToomey"
+  },
+  {
+    "name": "Sheldon Whitehouse",
+    "state": "RI",
+    "party": "Democrat",
+    "phone": "202-224-2921",
+    "twitter": "@SenWhitehouse"
+  },
+  {
+    "name": "Jack Reed",
+    "state": "RI",
+    "party": "Democrat",
+    "phone": "202-224-4642",
+    "twitter": "@SenJackReed"
+  },
+  {
+    "name": "Lindsey Graham",
+    "state": "SC",
+    "party": "Republican",
+    "phone": "202-224-5972",
+    "twitter": "@GrahamBlog"
+  },
+  {
+    "name": "Tim Scott",
+    "state": "SC",
+    "party": "Republican",
+    "phone": "202-224-6121",
+    "twitter": "@SenatorTimScott"
+  },
+  {
+    "name": "John Thune",
+    "state": "SD",
+    "party": "Republican",
+    "phone": "202-224-2321",
+    "twitter": "@SenJohnThune"
+  },
+  {
+    "name": "Mike Rounds",
+    "state": "SD",
+    "party": "Republican",
+    "phone": "202-224-5842",
+    "twitter": "@SenatorRounds"
+  },
+  {
+    "name": "Bob Corker",
+    "state": "TN",
+    "party": "Republican",
+    "phone": "202-224-3344",
+    "twitter": "@SenBobCorker"
+  },
+  {
+    "name": "Lamar Alexander",
+    "state": "TN",
+    "party": "Republican",
+    "phone": "202-224-4944",
+    "twitter": "@SenAlexander"
+  },
+  {
+    "name": "John Cornyn",
+    "state": "TX",
+    "party": "Republican",
+    "phone": "202-224-2934",
+    "twitter": "@JohnCornyn"
+  },
+  {
+    "name": "Ted Cruz",
+    "state": "TX",
+    "party": "Republican",
+    "phone": "202-224-5922",
+    "twitter": "@SenTedCruz"
+  },
+  {
+    "name": "Orrin Hatch",
+    "state": "UT",
+    "party": "Republican",
+    "phone": "202-224-5251",
+    "twitter": "@SenOrrinHatch"
+  },
+  {
+    "name": "Mike Lee",
+    "state": "UT",
+    "party": "Republican",
+    "phone": "202-224-5444",
+    "twitter": "@SenMikeLee"
+  },
+  {
+    "name": "Mark Warner",
+    "state": "VA",
+    "party": "Democrat",
+    "phone": "202-224-2023",
+    "twitter": "@MarkWarner"
+  },
+  {
+    "name": "Tim Kaine",
+    "state": "VA",
+    "party": "Democrat",
+    "phone": "202-224-4024",
+    "twitter": "@SenKaineOffice"
+  },
+  {
+    "name": "Bernie Sanders",
+    "state": "VT",
+    "party": "Independent",
+    "phone": "202-224-5141",
+    "twitter": "@SenSanders"
+  },
+  {
+    "name": "Patrick Leahy",
+    "state": "VT",
+    "party": "Democrat",
+    "phone": "202-224-4242",
+    "twitter": "@SenatorLeahy"
+  },
+  {
+    "name": "Maria Cantwell",
+    "state": "WA",
+    "party": "Democrat",
+    "phone": "202-224-3441",
+    "twitter": "@SenatorCantwell"
+  },
+  {
+    "name": "Patty Murray",
+    "state": "WA",
+    "party": "Democrat",
+    "phone": "202-224-2621",
+    "twitter": "@PattyMurray"
+  },
+  {
+    "name": "Tammy Baldwin",
+    "state": "WI",
+    "party": "Democrat",
+    "phone": "202-224-5653",
+    "twitter": "@SenatorBaldwin"
+  },
+  {
+    "name": "Ron Johnson",
+    "state": "WI",
+    "party": "Republican",
+    "phone": "202-224-5323",
+    "twitter": "@SenRonJohnson"
+  },
+  {
+    "name": "Joe Manchin III",
+    "state": "WV",
+    "party": "Democrat",
+    "phone": "202-224-3954",
+    "twitter": "@Sen_JoeManchin"
+  },
+  {
+    "name": "Shelley Moore Capito",
+    "state": "WV",
+    "party": "Republican",
+    "phone": "202-224-6472",
+    "twitter": "@SenCapito"
+  },
+  {
+    "name": "John Barrasso",
+    "state": "WY",
+    "party": "Republican",
+    "phone": "202-224-6441",
+    "twitter": "@SenJohnBarrasso"
+  },
+  {
+    "name": "Mike Enzi",
+    "state": "WY",
+    "party": "Republican",
+    "phone": "202-224-3424",
+    "twitter": "@SenatorEnzi"
+  }
+ ]
