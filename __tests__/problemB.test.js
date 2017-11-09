@@ -73,13 +73,13 @@ describe('The pet adoption app', () => {
   });
 
   it('renders the BreedLinks component', () => {
-    expect(wrapper.find('BreedNav').length).toBe(1);
+    expect(wrapper.find('BreedsNav').length).toBe(1);
     expect(wrapper.find('#breedLinks > h2').text()).toEqual("Pick a Breed");
     expect(wrapper.find('#breedLinks a').length).toBeGreaterThan(0); //includes links (some)
   })
 
   it('renders BreedLinks with correct props', () => {
-    expect(wrapper.find('BreedNav').props()).toMatchObject({ breeds: [ 'Breed A', 'Breed B' ] })
+    expect(wrapper.find('BreedsNav').props()).toMatchObject({ breeds: [ 'Breed A', 'Breed B' ] })
     expect(wrapper.find('#breedLinks a').length).toBe(2); //actually count
     expect(wrapper.find('#breedLinks a').at(0).text()).toEqual('Breed A'); //check entries
     expect(wrapper.find('#breedLinks a').at(1).text()).toEqual('Breed B'); //check entries
